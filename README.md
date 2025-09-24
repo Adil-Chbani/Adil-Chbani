@@ -62,7 +62,10 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
+</div>
+
 
 ---
 
