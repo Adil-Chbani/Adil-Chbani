@@ -1,4 +1,4 @@
-<div align="center" width="100%">
+ <div align="center" width="100%">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
@@ -88,7 +88,7 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="linkedin.com/in/adil-chbani-866734292/" target="_blank">
+  <a href="https://www.linkedin.com/in/adil-chbani-866734292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adilchbani.contact@gmail.com" target="_blank">
