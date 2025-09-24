@@ -65,7 +65,7 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 
 ---
 
-### ✍️ Random Dev Quote
+### 🐍 Snake Animation
 <div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
