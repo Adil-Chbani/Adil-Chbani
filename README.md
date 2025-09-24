@@ -47,28 +47,30 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
 </div>
 
----
 
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=AdilChbani&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AdilChbani's GitHub stats" /> 
-      </td> 
-      <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilChbani&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
-      </td> 
-    </tr> 
-  </table> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilChbani&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adil-chbani-866734292/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Adil Chbani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adilchbani.contact@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=AdilChbani&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=Adil-Chbani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adil-Chbani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adil-Chbani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 <p align="center">
