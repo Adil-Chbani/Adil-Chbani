@@ -49,15 +49,19 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adil-Chbani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adil-Chbani&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
 
 ---
 
@@ -66,16 +70,21 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </div>
 
-
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adil-Chbani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Adil-Chbani&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adil-Chbani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👁️ Visit Count
+<div align="center">
+  [<img src="https://visitcount.itsvg.in/api?id=Adil-Chbani&icon=0&color=0"/>](https://visitcount.itsvg.in)
+</div>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Adil-Chbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
