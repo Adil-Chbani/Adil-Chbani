@@ -47,7 +47,9 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
 </div>
 
-# 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -66,7 +68,6 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Adil-Chbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
