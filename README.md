@@ -6,6 +6,8 @@
 
 <hr>
 
+<div align="center">
+
 ### 👋 Hello! I'm **Adil Chbani** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 A passionate **Full Stack Developer**, specialized in **Back-End Development** ⚙️.  
 I have strong skills in **C++** and problem-solving 💡, and I’m always working to improve my programming knowledge 🚀.  
@@ -14,11 +16,9 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ---
 
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-2ea44f?style=for-the-badge&logo=stackshare&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-2ea44f?style=for-the-badge&logo=stackshare&logoColor=white" />
 
 ---
 
@@ -43,58 +43,48 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 
 ---
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
-</div>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
 
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adil-Chbani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Adil-Chbani&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adil-Chbani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Adil-Chbani&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adil-Chbani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[<img src="https://visitcount.itsvg.in/api?id=Adil-Chbani&icon=0&color=0">](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Adil-Chbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
+<img src="https://img.shields.io/github/followers/Adil-Chbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 
 ---
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adilchbani.contact@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-  <a href="https://wa.me/0622822241" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=adilchbani.contact@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/0622822241" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 ---
 
