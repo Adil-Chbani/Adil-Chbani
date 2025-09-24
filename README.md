@@ -23,8 +23,8 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 ( Stone - Paper - Scissor )](#)
-- [Project 2 ( Math Game )](#)
+- [Project 1 ( Stone - Paper - Scissor )](https://github.com/Adil-Chbani/Project-1-Stone---Paper---Scissor-)
+- [Project 2 ( Math Game )](https://github.com/Adil-Chbani/Project-2-Math-Game)
 
 ---
 
