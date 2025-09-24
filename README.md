@@ -59,8 +59,12 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adil-Chbani&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Adil-Chbani&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -69,7 +73,7 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 [![](https://visitcount.itsvg.in/api?id=Adil-Chbani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/Adil-Chbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
