@@ -46,7 +46,7 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
 </div>
----
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false)<br/>
