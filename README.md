@@ -50,11 +50,10 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adil-Chbani&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Chbani&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 ---
 
 ## 🏆 GitHub Trophies
