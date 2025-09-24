@@ -72,7 +72,7 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/AdilChbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://img.shields.io/github/following/Adil-Chbani?label=Following&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 ---
