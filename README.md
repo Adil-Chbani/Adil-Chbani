@@ -67,7 +67,6 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ---
 
 ### 🔝 Top Contributed Repo
-<div align="center"></div>
 ![](https://github-contributor-stats.vercel.app/api?username=Adil-Chbani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
