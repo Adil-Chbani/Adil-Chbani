@@ -79,13 +79,6 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 
 ---
 
-### 👁️ Visit Count
-<div align="center">
-  [<img src="https://visitcount.itsvg.in/api?id=Adil-Chbani&icon=0&color=0"/>](https://visitcount.itsvg.in)
-</div>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Adil-Chbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
