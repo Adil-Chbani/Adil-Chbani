@@ -1,70 +1,109 @@
-<div align="center" width="50">
+<div align="center" width="100%">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 </div>
 
-# 👋 Hi, I’m **Adil Chbani**
+<hr>
 
-🔹 Full-Stack Developer, specialized in **Back-End Development**  
-🔹 Passionate about **C++ Problem Solving** and clean code  
-🔹 Experienced with **HTML, CSS, JavaScript, React, PHP, SQL, MongoDB**  
+### 👋 Hello! I'm **Adil Chbani** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A **Full-Stack Developer** specialized in **Back-End Development** ⚡.  
+Passionate about **C++ Problem Solving**, algorithms, and building scalable systems 🚀.  
+I enjoy creating projects, improving my skills, and sharing my knowledge with the community 💻.  
+
+---
+
+### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
+- [Billing & CRM System](#) *(Laravel + React)*  
+- [Hotel Management App](#) *(React + Node.js)*  
+- [Teams & Players API](#) *(Node.js + MongoDB)*  
+- [Problem Solving in C++](#) *(Algorithms & Data Structures)*  
+
+---
+
+### 🏆 Achievements & Experience <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+- Solved **350+ Problem Solving Exercises in C++**  
+- Built **multiple Full-Stack projects** (React, PHP, Node.js)  
+- Hands-on experience with **MongoDB, SQL, Laravel, Tailwind CSS**  
+- Active contributor in **Back-End and API projects**  
+
+---
+
+### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
+- Advanced **Back-End Development**  
+- Mastering **System Design & Databases**  
+- Improving **Problem Solving with C++**  
+- Building **Scalable Full-Stack Applications**  
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AdilChbani&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdilChbani&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
 </div>
 
 ---
 
-## 🚀 Tech Stack & Tools
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center" >
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
+<div align="center"> 
+  <table> 
+    <tr> 
+      <td> 
+        <img src="https://github-readme-stats.vercel.app/api?username=AdilChbani&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="AdilChbani's GitHub stats" /> 
+      </td> 
+      <td> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdilChbani&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
+      </td> 
+    </tr> 
+  </table> 
+  <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilChbani&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
 
 ---
 
-## 🎯 About Me
-
-- 🔭 Currently working on **Back-End Projects** with PHP & Node.js  
-- 🌱 Learning more about **system design & scalability**  
-- 💬 Ask me about **Problem Solving, C++, Back-End Development**  
-- ⚡ Fun fact: I believe **every bug is a puzzle to solve!**
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=AdilChbani&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AdilChbani?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+</p>
+
+---
+
+### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Solved!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Wow!"/>
-
+  <a href="https://www.linkedin.com/in/adil-chbani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adil.chbani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
+
+---
+
+```cpp
+// Focused on mastering the stack
+class AdilChbani {
+public:
+  string specialization = "Full Stack (Back-End Focus)";
+  string passion = "C++ Problem Solving & Building Scalable Systems";
+  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
+};
