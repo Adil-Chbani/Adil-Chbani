@@ -7,49 +7,39 @@
 <hr>
 
 ### 👋 Hello! I'm **Adil Chbani** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A **Full-Stack Developer** specialized in **Back-End Development** ⚡.  
-Passionate about **C++ Problem Solving**, algorithms, and building scalable systems 🚀.  
-I enjoy creating projects, improving my skills, and sharing my knowledge with the community 💻.  
+A passionate **Full Stack Developer**, specialized in **Back-End Development** ⚙️.  
+I have strong skills in **C++** and problem-solving 💡, and I’m always working to improve my programming knowledge 🚀.  
+Currently, I’m building projects to sharpen my skills and grow in the development world.
 
 ---
 
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-2ea44f?style=for-the-badge&logo=stackshare&logoColor=white" />
 </div>
 
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Billing & CRM System](#) *(Laravel + React)*  
-- [Hotel Management App](#) *(React + Node.js)*  
-- [Teams & Players API](#) *(Node.js + MongoDB)*  
-- [Problem Solving in C++](#) *(Algorithms & Data Structures)*  
+- [Project 1 ( Stone - Paper - Scissor )](#)
+- [Project 2 ( Math Game )](#)
 
 ---
 
-### 🏆 Achievements & Experience <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- Solved **350+ Problem Solving Exercises in C++**  
-- Built **multiple Full-Stack projects** (React, PHP, Node.js)  
-- Hands-on experience with **MongoDB, SQL, Laravel, Tailwind CSS**  
-- Active contributor in **Back-End and API projects**  
+### 🏆 Achievements & Learning Path <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
+- Strong base in **C++** & **Problem Solving**  
+- Built multiple small projects to practice coding 🛠️  
+- Always learning new technologies and enhancing my **back-end skills**
 
 ---
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
-- Advanced **Back-End Development**  
-- Mastering **System Design & Databases**  
-- Improving **Problem Solving with C++**  
-- Building **Scalable Full-Stack Applications**  
+- Mastering **Back-End Development**  
+- Practicing algorithms and problem-solving  
+- Learning step by step through **Course 7** and beyond  
+- Building more projects to enhance my portfolio 🚀  
 
 ---
 
@@ -87,23 +77,4 @@ I enjoy creating projects, improving my skills, and sharing my knowledge with th
 
 ---
 
-### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
-<div align="center">
-  <a href="https://www.linkedin.com/in/adil-chbani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adil.chbani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-```cpp
-// Focused on mastering the stack
-class AdilChbani {
-public:
-  string specialization = "Full Stack (Back-End Focus)";
-  string passion = "C++ Problem Solving & Building Scalable Systems";
-  void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
-};
+### 📬 Contact Information <img src="https:/
