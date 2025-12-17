@@ -40,7 +40,7 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ### 🎯 Currently Learning & Working On
 - Improving my **Back-End Development** skills  
 - Practicing **algorithms and problem-solving**  
-- Following **Course 7 with Mohammed AbouHadhood** step by step  
+- Following **Course 11 with Mohammed AbouHadhood** step by step  
 - Building small projects to apply what I learn and grow my portfolio 🚀
 
 ---
