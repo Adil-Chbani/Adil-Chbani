@@ -25,7 +25,9 @@ Currently, I’m building projects to sharpen my skills and grow in the developm
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 - [Project 1 ( Stone - Paper - Scissor )](https://github.com/Adil-Chbani/Project-1-Stone---Paper---Scissor-)
 - [Project 2 ( Math Game )](https://github.com/Adil-Chbani/Project-2-Math-Game)
-
+- [Project 3 ( Banking System )](https://github.com/Adil-Chbani/Programming-Courses-by-Dr-Mohammed-Abu-Hadhoud/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203/Project%203%20%5B%20Bank%201%20%5D/Project%203%20%5B%20Bank%201%20%5D)
+- [Project 4 ( Banking System – C++ Console App )](https://github.com/Adil-Chbani/Programming-Courses-by-Dr-Mohammed-Abu-Hadhoud/tree/main/08%20-%20Algorithms%20Problem%20Solving%20Level%204/Project%204%20and%205/Project%203.2%20%5B%20Bank%201%20%5D%20(%202st%20Extension%20)/Project%203.2%20Bank%20System)
+- [Project 5 ( ATM System )](https://github.com/Adil-Chbani/Programming-Courses-by-Dr-Mohammed-Abu-Hadhoud/tree/main/08%20-%20Algorithms%20Problem%20Solving%20Level%204/Project%204%20and%205/Peject%20ATM%20System)
 ---
 
 ### 🏆 Achievements & Learning Path <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
